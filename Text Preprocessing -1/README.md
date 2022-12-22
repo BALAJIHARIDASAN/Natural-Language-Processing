@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/121180975/209099503-eecbc393-44ee-4949-aceb-2b208a17e8f8.png)
+![image](https://user-images.githubusercontent.com/121180975/209106427-1ab2a325-b587-47cb-a039-12631f72b196.png)
 
 **Tokenization**
 
