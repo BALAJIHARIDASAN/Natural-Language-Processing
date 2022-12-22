@@ -6,7 +6,7 @@ The tokenization stage involves converting a sentence into a stream of words, al
 Many NLP toolkits allow users to input multiple criteria based on which word boundaries are determined. For example, you can use a whitespace or punctuation to determine if one word has ended and the next one has started. Again, in some instances, these rules might fail. For example, don’t, it’s, etc. are words themselves that contain punctuation marks and have to be dealt with separately.
 
 
-Change Case
+**Change Case**
 
 Changing the case involves converting all text to lowercase or uppercase so that all word strings follow a consistent format. Lowercasing is the more frequent choice in NLP software.
 
