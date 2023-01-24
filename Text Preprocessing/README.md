@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+
 # Natural-Language-Processing
 Natural Language Processing
-||||||| b816291
-=======
+
 ![image](https://user-images.githubusercontent.com/121180975/209106427-1ab2a325-b587-47cb-a039-12631f72b196.png)
 
 **Tokenization**
@@ -38,4 +37,3 @@ The stemmer would stem right to right in both sentences; the lemmatizer would tr
 A lemmatizer also converts different word forms or inflections to a standard form. For example, it would convert less to little, wrote to write, slept to sleep, etc. 
 
 A lemmatizer works with more rules of the language and contextual information than does a stemmer. It also relies on a dictionary to look up matching words. Because of that, it requires more processing power and time than a stemmer to generate output. For these reasons, some NLP applications only use a stemmer and not a lemmatizer. 
->>>>>>> 2d53c10ebbe2dbc812546448a370783c34d7284e
