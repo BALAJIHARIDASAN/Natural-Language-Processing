@@ -83,6 +83,7 @@ Natural language processing (NLP) refers to the branch of computer science—and
 
 1. Naive Bayes
 2. Random Forest
+3. XGBOOST
 
 **DEEP LEARNING MODELS :**
 
