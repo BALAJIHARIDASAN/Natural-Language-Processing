@@ -7,7 +7,7 @@ Natural language processing (NLP) refers to the branch of computer science—and
 
 
 
-Natural Language Projects :
+**Natural Language Projects :**
 
 1. Part of speech Tagging (POS)
 
@@ -29,7 +29,7 @@ Natural Language Projects :
 
 
 
-Text Preprocessing Steps :
+**Text Preprocessing Steps :**
 
 1. Lower casing
 
@@ -60,7 +60,7 @@ Text Preprocessing Steps :
 
 
 
-Word-Vectorization :
+**Word-Vectorization :**
 
 1. One hot encoding
 
@@ -77,7 +77,7 @@ Word-Vectorization :
         - Skip - Gram
 
 
-Models:
+**Models:**
 
 1. Naive Bayes
 2. Random Forest
