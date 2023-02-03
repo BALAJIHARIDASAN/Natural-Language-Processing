@@ -93,9 +93,9 @@ Natural language processing (NLP) refers to the branch of computer science—and
 7. Bi- Directional LSTM
 8. Stacked LSTM
 9. Transformers
-10. Bert
-11. Albert
-12. distill bert
+10. BERT
+11. Al-BERT
+12. distill BERT
 13. GPT
 14. ELMO
 
