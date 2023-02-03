@@ -9,31 +9,31 @@ Twitter Sentiment analysis
 
 Text Preprocessing Steps :
 
-1.Lower casing
+    -1. Lower casing
 
-2.Removal of Punctuations
+    -2. Removal of Punctuations
 
-3.Removal of Stopwords
+    -3. Removal of Stopwords
 
-4.Removal of Frequent words
+    -4. Removal of Frequent words
 
-5.Removal of Rare words
+    -5. Removal of Rare words
 
-6.Stemming
+    -6. Stemming
 
-7.Lemmatization
+    -7. Lemmatization
 
-8.Removal of emojis
+    -8. Removal of emojis
 
-9.Removal of emoticons
+    -9. Removal of emoticons
 
-10.Conversion of emoticons to words
+    -10. Conversion of emoticons to words
 
-11.Conversion of emojis to words
+    -11. Conversion of emojis to words
 
-12.Removal of URLs
+    -12. Removal of URLs
 
-13.Removal of HTML tags
+    -13. Removal of HTML tags
 
 
 
