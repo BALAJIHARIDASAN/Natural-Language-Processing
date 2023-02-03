@@ -79,17 +79,22 @@ Natural language processing (NLP) refers to the branch of computer science—and
 
 **Models:**
 
+**MACHINE LEARING MODELS:**
+
 1. Naive Bayes
 2. Random Forest
-3. RNN
-4. LSTM
-5. GRU
-6. Bi- Directional LSTM
-7. Stacked LSTM
-8. Transformers
-9. Bert
-10. Albert
-11. distill bert
-12. GPT
-13. ELMO
+
+**DEEP LEARNING MODELS :**
+
+4. RNN
+5. LSTM
+6. GRU
+7. Bi- Directional LSTM
+8. Stacked LSTM
+9. Transformers
+10. Bert
+11. Albert
+12. distill bert
+13. GPT
+14. ELMO
 
