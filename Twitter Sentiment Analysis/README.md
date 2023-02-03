@@ -4,9 +4,6 @@ Twitter Sentiment analysis
 
 
 
-
-
-
 Text Preprocessing Steps :
 
 1. Lower casing
