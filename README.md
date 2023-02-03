@@ -4,3 +4,22 @@ Natural language processing (NLP) refers to the branch of computer science—and
 
 
 ![image](https://github.com/BALAJIHARIDASAN/Natural-Language-Processing/blob/main/nlp.gif)
+
+
+
+Natural Language Projects :
+
+1. Part of speech Tagging (POS)
+
+2. Spam Filtering
+
+3. Text Summarization
+
+4. Speech TO text
+
+5. sentiment analysis
+
+6. Information Retrivel
+
+7. Text / Document Classification
+
