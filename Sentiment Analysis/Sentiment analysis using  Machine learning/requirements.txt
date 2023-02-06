@@ -1,0 +1,9 @@
+joblib
+numpy
+flask
+itsdangerous
+MarkupSafe
+Jinja2
+Werkzeug
+sklearn
+nltk
