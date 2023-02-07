@@ -8,9 +8,9 @@ from util import text_transformer
 
 ### loading model and scalar object
 logging.info("Reading model object from model.sav file")
-model=joblib.load('model.sav')
+model=joblib.load(r'C:\Users\91822\Desktop\git_hub\Natural-Language-Processing\Sentiment Analysis\Sentiment analysis using  Machine learning\Models\model.sav')
 logging.info("Reading Vectorizer object from vectorizer.sav file")
-vectorizer=joblib.load('vectorizer.sav')
+vectorizer=joblib.load(r'C:\Users\91822\Desktop\git_hub\Natural-Language-Processing\Sentiment Analysis\Sentiment analysis using  Machine learning\Models\vectorizer.sav')
 
 app=Flask(__name__)
 
@@ -35,11 +35,11 @@ def prediction():
         logging.info("Generating model prediction using saved model object")
         output=model.predict(vectorized_text)
         if output==1:
-            logging.info("Model Prediction is: Message is Spam.")
-            output= "Message is Spam."
+            logging.info("Model Prediction is: Positive sentiment.")
+            output= "Positive sentiment."
         else:
-            logging.info("Model Prediction is: Message is ham i.e. Normal.")
-            output="Message is ham i.e. Normal."
+            logging.info("Model Prediction is: Negative sentiment")
+            output="Negative sentiment."
         logging.info("Returning model prediction to web application")
         return render_template("home.html",prediction_value="Model Prediction: {}".format(output))
     except Exception as e:
