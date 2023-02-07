@@ -1,4 +1,4 @@
-![](https://github.com/BALAJIHARIDASAN/Natural-Language-Processing/blob/main/Sentiment%20Analysis/movie.gif)
+![](https://github.com/BALAJIHARIDASAN/Natural-Language-Processing/blob/main/Reviews%20Sentiment%20Analysis/movie.gif)
 
 
 
