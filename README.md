@@ -70,7 +70,7 @@ Natural language processing (NLP) refers to the branch of computer science—and
 
 4. WordEmbedding 
 
-    - word2vec :
+    - Word2Vec :
 
         - CBOW
 
